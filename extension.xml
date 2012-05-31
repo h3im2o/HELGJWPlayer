@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<software>
+	<metadata>
+		<name>HELG JWPlayer</name>
+		<version>1.0.0</version>
+		<copyright>Copyright © 2012 Hicham ELGUAROAUNI - SQLi Agency</copyright>
+		<license>GNU General Public License v2.0</license>
+		<info_url>http://projects.ez.no/Helgjwplayer</info_url>
+	</metadata>
+</software>
